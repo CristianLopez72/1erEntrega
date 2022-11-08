@@ -1,0 +1,42 @@
+[
+	{
+		"id": "27f68c0f-9541-4378-8440-827a04357410",
+		"timestamp": "8/11/2022, 15:34:52",
+		"nombre": "Mermelada de Ciruela",
+		"categoria": "Mermeladas",
+		"codigo": 1,
+		"foto": "http://localhost:8080/fotos/ciruela.jpg",
+		"precio": 680,
+		"stock": 24
+	},
+	{
+		"id": "2acf6f0a-046e-414e-9f3a-c815aa254365",
+		"timestamp": "8/11/2022, 15:30:08",
+		"nombre": "Aceite Oliva 1L",
+		"categoria": "Aceites",
+		"codigo": 2,
+		"foto": "http://localhost:8080/fotos/oliva.jpg",
+		"precio": 1600,
+		"stock": 1600
+	},
+	{
+		"id": "8271b2c3-44c1-44a6-a7a5-45e83bf6d14d",
+		"timestamp": "8/11/2022, 15:31:46",
+		"nombre": "Pasta Aceitunas Verdes",
+		"categoria": "Aceitunas",
+		"codigo": 3,
+		"foto": "http://localhost:8080/fotos/pasta.jpg",
+		"precio": 500,
+		"stock": 500
+	},
+	{
+		"id": "5985f3ff-78bf-43b1-98b4-ca7be344f8dd",
+		"timestamp": "8/11/2022, 15:31:55",
+		"nombre": "Cereza en Almíbar",
+		"categoria": "Almíbar",
+		"codigo": 4,
+		"foto": "http://localhost:8080/fotos/cereza.jpg",
+		"precio": 800,
+		"stock": 800
+	}
+]
